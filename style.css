@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #47239b;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #377baf;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -129,7 +129,6 @@
 .awards-name {
     font-size: 25px;
 }
-
 
 .exp-desc,
 .education-desc,
